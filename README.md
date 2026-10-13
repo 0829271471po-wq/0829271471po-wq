@@ -8,7 +8,7 @@
 
 ### งานที่ทำ
 
-- **[GuardianEye](https://github.com/0829271471po-wq/guardianeye)** กล้องจับคนล้ม ทำเพราะที่บ้านมียาย ใช้ ESP32-CAM ส่งภาพเข้าคอม ถ้ามีคนล้มแล้วไม่ลุกจะส่งรูปเข้า Telegram
+- **[GuardianEye](https://github.com/0829271471po-wq/guardianeye)** กล้องจับคนล้มที่จำหน้าคนในบ้านได้ ทำเพราะที่บ้านมียาย ใช้ ESP32-CAM ส่งภาพเข้าคอม ถ้ามีคนล้มแล้วไม่ลุกจะส่งรูปเข้า Telegram พร้อมบอกว่าใครล้ม
 - **[AI ส่วนตัว](https://github.com/0829271471po-wq/personal-ai)** บอต Telegram ที่จำเรื่องที่เคยคุยได้ ไม่ต้องเล่าใหม่ทุกรอบ
 - **[Polo Optimizer](https://github.com/0829271471po-wq/polo-optimizer)** โปรแกรมดูแลคอม Windows ลง app หา driver ล้างเครื่อง ปรับเล่นเกม รวมไว้ในที่เดียว ([โหลดลองได้](https://github.com/0829271471po-wq/polo-optimizer/releases))
 - **[Portfolio](https://posarin-portfolio.netlify.app)** เว็บรวมผลงานทั้งหมด

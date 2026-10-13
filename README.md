@@ -17,4 +17,5 @@
 
 Python เยอะสุด, JavaScript, C (กำลังเรียน CS50), ESP32-CAM, OpenCV, MediaPipe
 
-ติดต่อ: 0829271471po@gmail.com
+ช่องทางการติดต่อ T. 0829271471
+Gmail : 0829271471po@gmail.com
